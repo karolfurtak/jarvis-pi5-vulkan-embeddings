@@ -217,6 +217,4 @@ undocumented manual step.
 
 ## License
 
-[MIT](LICENSE) for the scripts and documentation in this repository. The
-embedding model is a separate artifact under Apache 2.0 — see
-[`model-attribution.md`](model-attribution.md).
+Copyright (c) 2026 Karol Furtak. **All rights reserved.** Commercial use, copying, distribution and modification only with the author's written permission — see [LICENSE](LICENSE). Viewing the code on GitHub does not grant a licence. The embedding model is a separate artifact under Apache 2.0 — see [`model-attribution.md`](model-attribution.md).
